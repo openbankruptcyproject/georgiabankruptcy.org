@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://georgiabankruptcy.org/sitemap.xml
