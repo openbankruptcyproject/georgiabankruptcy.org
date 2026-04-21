@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate all missing pages for georgiabankruptcy.org"""
-import os, pathlib
+import pathlib
 
 BASE = pathlib.Path(__file__).parent
 GA4 = '<script async src="https://www.googletagmanager.com/gtag/js?id=G-CSBPNV4NKL"></script>\n<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag(\'js\',new Date());gtag(\'config\',\'G-CSBPNV4NKL\');gtag(\'config\',\'G-053Z64N82F\');gtag(\'config\',\'G-FTWLM223G7\');</script>'
@@ -878,7 +878,7 @@ for slug, name, county, zipcode in suburbs:
         f'<nav><div class="container"><a href="/atlanta/" class="brand">Atlanta Bankruptcy Guide</a><div class="links"><a href="/">Georgia</a><a href="/atlanta/">Atlanta</a><a href="/atlanta/suburbs/{slug}.html">{name}</a><a href="/atlanta/chapter-7.html">Chapter 7</a><a href="/atlanta/chapter-13.html">Chapter 13</a><a href="/atlanta/faq.html">FAQ</a></div></div></nav>',
         [("Georgia","https://georgiabankruptcy.org"),("Atlanta","https://georgiabankruptcy.org/atlanta/"),("Suburbs","https://georgiabankruptcy.org/atlanta/"),(name,f"https://georgiabankruptcy.org/atlanta/suburbs/{slug}.html")],
         [(f"Where do I file bankruptcy if I live in {name}?",f"{name} is in {county}, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000."),
-         (f"How much does bankruptcy cost in {name}?",f"Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees in the Atlanta area typically range from $1,200 to $2,500 for Chapter 7 and $3,500 to $5,000 for Chapter 13. Two required credit counseling courses cost $25-$50 total."),
+         (f"How much does bankruptcy cost in {name}?","Filing fees are $338 for Chapter 7 and $313 for Chapter 13. Attorney fees in the Atlanta area typically range from $1,200 to $2,500 for Chapter 7 and $3,500 to $5,000 for Chapter 13. Two required credit counseling courses cost $25-$50 total."),
          (f"What is the dismissal rate for {name} bankruptcy cases?",f"{name} cases are filed in the Northern District of Georgia, which has a 72.9% Chapter 13 dismissal rate -- one of the highest in the nation. Nearly 3 out of 4 Chapter 13 cases fail to reach discharge.")],
         f"""<div class="hero"><div class="container">
 <h1>Filing Bankruptcy in {name}, Georgia</h1>
