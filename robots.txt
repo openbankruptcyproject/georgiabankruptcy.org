@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://georgiabankruptcy.org/sitemap.xml
 
-Sitemap: https://georgiabankruptcy.org/feed.xml
+
+Sitemap: https://georgiabankruptcy.org/sitemapindex.xml
