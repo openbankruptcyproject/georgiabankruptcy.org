@@ -1,0 +1,4 @@
+# engine output and never-erase promotion backups (statute-sites/_engine README): local only, never published
+_rebuilt/
+_prefooterfix_*/
+__pycache__/
