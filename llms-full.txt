@@ -1,6 +1,6 @@
 # georgiabankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on georgiabankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -19,6 +19,8 @@ Georgia›Atlanta›341 Meeting
 The 341 Meeting of Creditors in Atlanta
 
 About 30 days after filing, you will attend a 341 meeting of creditors. This brief hearing is a routine part of every bankruptcy case in the Northern District of Georgia.
+
+The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions about your finances, assets, and bankruptcy petition. It typically lasts 5-10 minutes. Creditors may attend but rarely do. The meeting is held at the N.D. Ga. courthouse or by phone/video.
 
 What Is the 341 Meeting?
 
@@ -135,6 +137,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Automatic Stay in Atlanta Bankruptcy - 2026 Guide | Georgia Bankruptcy
@@ -148,6 +152,8 @@ Georgia›Atlanta›Automatic Stay
 The Automatic Stay in Atlanta Bankruptcy
 
 The moment you file bankruptcy in the Northern District of Georgia, the automatic stay stops foreclosure, repossession, wage garnishment, and creditor harassment. Here is how it protects Atlanta filers.
+
+The automatic stay is a federal injunction that takes effect the instant you file bankruptcy. It stops foreclosure, repossession, wage garnishment, lawsuits, and creditor phone calls. Creditors who violate the stay can be held in contempt of court.
 
 What the Automatic Stay Stops
 
@@ -256,6 +262,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 13 Bankruptcy in Atlanta, GA - 72.9% Dismissal Rate | Georgia Bankruptcy
@@ -287,6 +295,8 @@ Plan Duration
 $313
 
 Filing Fee
+
+The Northern District of Georgia has a 72.9% Chapter 13 dismissal rate, meaning nearly 3 out of 4 Chapter 13 cases filed in the Atlanta area fail to reach discharge. This is one of the highest rates among major metropolitan areas nationwide.
 
 What Is Chapter 13?
 
@@ -418,6 +428,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 7 Bankruptcy in Atlanta, GA - 2026 Guide | Georgia Bankruptcy
@@ -431,6 +443,8 @@ Georgia›Atlanta›Chapter 7
 Chapter 7 Bankruptcy in Atlanta, Georgia
 
 Chapter 7 is the fastest path to debt relief. Most Atlanta filers receive a discharge in 3-4 months, eliminating credit card debt, medical bills, and other unsecured obligations.
+
+You must pass the means test. If your household income is below Georgia's median (approximately $55,000 for a single filer), you automatically qualify. If above, you may still qualify after deducting allowed expenses for housing, transportation, and other necessities.
 
 What Is Chapter 7?
 
@@ -573,6 +587,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Atlanta Bankruptcy Filing Checklist - 2026 Guide | Georgia Bankruptcy
@@ -586,6 +602,8 @@ Georgia›Atlanta›Checklist
 Atlanta Bankruptcy Filing Checklist
 
 Gather these documents and information before filing bankruptcy in the Northern District of Georgia. Being prepared helps your case go smoothly and reduces the risk of delays.
+
+You need 6 months of pay stubs, 2 years of tax returns, bank statements, a list of all debts and creditors, a list of all assets and their values, vehicle titles, mortgage statements, and proof of credit counseling completion.
 
 Documents You Need
 
@@ -720,6 +738,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## How Much Does Bankruptcy Cost in Atlanta, GA - 2026 Guide - Georgia
@@ -733,6 +753,8 @@ Georgia›Atlanta›Cost
 How Much Does Bankruptcy Cost in Atlanta?
 
 A complete breakdown of every cost you will face when filing bankruptcy in Atlanta, from court fees to attorney fees to credit counseling.
+
+Chapter 7 filing fee is $338. Attorney fees in Atlanta typically range from $1,200 to $2,500. Two required credit counseling courses cost $25-$50 total. Fee waivers are available for filers below 150% of the poverty line.
 
 Filing Fees
 
@@ -826,6 +848,8 @@ Student Loan Forgiveness Programs -- studentloanforgive.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Rebuilding Credit After Bankruptcy in Atlanta - 2026 Guide | Georgia Bankruptcy
@@ -839,6 +863,8 @@ Georgia›Atlanta›Credit After Bankruptcy
 Rebuilding Credit After Bankruptcy in Atlanta
 
 Bankruptcy is not the end of your financial life - it is the beginning of a fresh start. Most Atlanta filers see their credit score improve within 1-2 years of discharge. Here is how to rebuild.
+
+Chapter 7 stays on your credit report for 10 years from the filing date. Chapter 13 stays for 7 years. However, the impact on your score decreases over time, and many people see significant improvement within 1-2 years after discharge.
 
 How Long Bankruptcy Stays on Your Credit Report
 
@@ -951,6 +977,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Georgia Bankruptcy Exemptions for Atlanta Filers - 2026 Guide
@@ -964,6 +992,8 @@ Georgia›Atlanta›Exemptions
 Georgia Bankruptcy Exemptions for Atlanta Filers
 
 Georgia requires you to use state exemptions - federal exemptions are not available. Here is a complete breakdown of what property you can protect when filing bankruptcy in Atlanta.
+
+Georgia's homestead exemption protects up to $21,500 of equity in your primary residence. Married couples filing jointly can protect up to $43,000. Georgia does not allow filers to use federal exemptions.
 
 Complete Georgia Exemption Table
 
@@ -1072,6 +1102,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Atlanta Bankruptcy FAQ - Common Questions Answered | Georgia Bankruptcy
@@ -1085,6 +1117,8 @@ Georgia›Atlanta›FAQ
 Atlanta Bankruptcy FAQ
 
 Answers to the most common questions about filing bankruptcy in Atlanta and the Northern District of Georgia.
+
+Complete credit counseling, then file at the N.D. Ga. courthouse at 75 Ted Turner Dr SW, Atlanta, GA 30303. Filing fee is $338 for Chapter 7 or $313 for Chapter 13.
 
 General Questions
 
@@ -1191,6 +1225,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Atlanta, Georgia - Complete 2026 Guide | Atlanta Bankruptcy
@@ -1220,6 +1256,8 @@ Homestead Exemption
 $5,000
 
 Vehicle Exemption
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Atlanta typically range from $1,200 to $2,500 for Chapter 7 and $3,500 to $5,000 for Chapter 13. Two required credit counseling courses cost $25-$50 total.
 
 Northern District of Georgia Courthouse
 
@@ -1454,6 +1492,30 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Keep Your Car in Atlanta Bankruptcy - 2026 Guide | Georgia Bankruptcy
@@ -1467,6 +1529,8 @@ Georgia›Atlanta›Keep Your Car
 Keep Your Car in Atlanta Bankruptcy
 
 Most Atlanta filers can keep their vehicle in bankruptcy. Georgia's $5,000 vehicle exemption, plus reaffirmation and cramdown options, give you multiple paths to protect your car.
+
+Georgia's vehicle exemption protects up to $5,000 of equity in one motor vehicle. If you owe more than the car is worth or your equity is under $5,000, you can typically keep it. The wildcard exemption can protect additional equity.
 
 Georgia's Vehicle Exemption
 
@@ -1553,6 +1617,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Keep Your House in Atlanta Bankruptcy - 2026 Guide | Georgia Bankruptcy
@@ -1566,6 +1632,8 @@ Georgia›Atlanta›Keep Your House
 Keep Your House in Atlanta Bankruptcy
 
 Georgia is a non-judicial foreclosure state where lenders can sell your home in as few as 60 days. Bankruptcy can stop foreclosure and give you time to catch up. Here is how Atlanta homeowners protect their property.
+
+Georgia's homestead exemption protects up to $21,500 of equity in your primary residence ($43,000 for married couples filing jointly). If your equity is within these limits, you can keep your home in Chapter 7. Chapter 13 lets you keep your home while catching up on missed payments over 3-5 years.
 
 Georgia's Homestead Exemption
 
@@ -1666,6 +1734,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Atlanta Bankruptcy Means Test - 2026 Guide | Georgia Bankruptcy
@@ -1679,6 +1749,8 @@ Georgia›Atlanta›Means Test
 The Bankruptcy Means Test in Atlanta
 
 The means test determines whether you qualify for Chapter 7 bankruptcy in the Northern District of Georgia. Here is how it works and what income thresholds apply to Atlanta-area filers.
+
+The means test compares your household income to Georgia's median. For a single filer, the 2026 Georgia median is approximately $55,000. If below, you automatically qualify for Chapter 7. If above, you may still qualify after deducting allowed expenses.
 
 What Is the Means Test?
 
@@ -1787,6 +1859,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Medical Debt Bankruptcy in Atlanta - 2026 Guide | Georgia Bankruptcy
@@ -1800,6 +1874,8 @@ Georgia›Atlanta›Medical Debt
 Eliminate Medical Debt Through Atlanta Bankruptcy
 
 Medical bills are the leading cause of bankruptcy filings in the United States. Both Chapter 7 and Chapter 13 can eliminate medical debt for Atlanta residents.
+
+Yes. Medical debt is unsecured debt and is fully dischargeable in both Chapter 7 and Chapter 13. In Chapter 7, medical bills are eliminated in 3-4 months. In Chapter 13, you may pay a small percentage through your plan.
 
 Medical Debt Is Fully Dischargeable
 
@@ -1896,6 +1972,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Alpharetta, GA - 2026 Guide | Georgia Bankruptcy
@@ -1927,6 +2005,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Alpharetta is in Fulton County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Alpharetta Residents File
 
@@ -2074,6 +2154,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Decatur, GA - 2026 Guide | Georgia Bankruptcy
@@ -2105,6 +2187,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Decatur is in DeKalb County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Decatur Residents File
 
@@ -2252,6 +2336,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Duluth, GA - 2026 Guide | Georgia Bankruptcy
@@ -2283,6 +2369,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Duluth is in Gwinnett County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Duluth Residents File
 
@@ -2430,6 +2518,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Kennesaw, GA - 2026 Guide | Georgia Bankruptcy
@@ -2461,6 +2551,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Kennesaw is in Cobb County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Kennesaw Residents File
 
@@ -2608,6 +2700,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Lawrenceville, GA - 2026 Guide | Georgia Bankruptcy
@@ -2639,6 +2733,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Lawrenceville is in Gwinnett County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Lawrenceville Residents File
 
@@ -2786,6 +2882,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Marietta, GA - 2026 Guide | Georgia Bankruptcy
@@ -2817,6 +2915,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Marietta is in Cobb County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Marietta Residents File
 
@@ -2964,6 +3064,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Roswell, GA - 2026 Guide | Georgia Bankruptcy
@@ -2995,6 +3097,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Roswell is in Fulton County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Roswell Residents File
 
@@ -3142,6 +3246,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Sandy Springs, GA - 2026 Guide | Georgia Bankruptcy
@@ -3173,6 +3279,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Sandy Springs is in Fulton County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Sandy Springs Residents File
 
@@ -3320,6 +3428,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Smyrna, GA - 2026 Guide | Georgia Bankruptcy
@@ -3351,6 +3461,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Smyrna is in Cobb County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Smyrna Residents File
 
@@ -3498,6 +3610,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Stone Mountain, GA - 2026 Guide | Georgia Bankruptcy
@@ -3529,6 +3643,8 @@ Vehicle Exemption
 $338
 
 Ch. 7 Filing Fee
+
+Stone Mountain is in DeKalb County, which is part of the Northern District of Georgia. You file at the U.S. Bankruptcy Court, 75 Ted Turner Dr SW, Atlanta, GA 30303. Phone: (404) 215-1000.
 
 Where Stone Mountain Residents File
 
@@ -3676,6 +3792,8 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Atlanta Bankruptcy Timeline - Step by Step 2026 Guide | Georgia Bankruptcy
@@ -3689,6 +3807,8 @@ Georgia›Atlanta›Timeline
 Atlanta Bankruptcy Timeline
 
 From your first consultation to discharge, here is what to expect at each stage of the bankruptcy process in the Northern District of Georgia.
+
+Most Chapter 7 cases in the Northern District of Georgia take 3-4 months from filing to discharge. The 341 meeting occurs about 30 days after filing, and discharge follows approximately 60 days later.
 
 Chapter 7 Timeline
 
@@ -3785,6 +3905,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bank Accounts and Bankruptcy in Georgia
@@ -3800,6 +3922,8 @@ Bank Accounts and Bankruptcy in Georgia
 Understanding how bankruptcy interacts with your bank accounts in Georgia can help you protect your money and avoid unexpected freezes or seizures.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Before bankruptcy, a creditor with a judgment can levy (freeze and seize funds from) your bank account in Georgia. After you file bankruptcy, the automatic stay immediately prohibits any new levies and may require release of frozen funds.
 
 Bank Account Levies and the Automatic Stay
 
@@ -3873,7 +3997,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -3905,15 +4028,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3937,7 +4078,7 @@ Can I Buy a Car While in Chapter 13 in Georgia?
 
 Yes - but you need court permission first. Buying a car during Chapter 13 requires filing a motion, getting trustee approval, and showing the purchase fits your budget.
 
-Quick answer: You can buy a car during Chapter 13 in Georgia, but you must file a Motion to Incur New Debt and get court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
+Quick answer: You can buy a car during Chapter 13 in Georgia, but the typical mechanism is filing a Motion to Incur New Debt and obtaining court/trustee approval before signing anything. The court will evaluate whether the purchase is necessary and affordable within your plan.
 
 The Process: Step by Step
 
@@ -3989,7 +4130,7 @@ Frequently Asked Questions
 
 Can I buy a car while in Chapter 13 in Georgia?
 
-Yes, but you need court approval. You must file a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
+Court approval is generally required. The typical mechanism is filing a motion with the bankruptcy court requesting permission to incur new debt. The trustee and court will evaluate whether the purchase is necessary, whether you can afford it within your plan, and whether the terms are reasonable.
 
 Do I need trustee approval to buy a car in Georgia Chapter 13?
 
@@ -4005,7 +4146,7 @@ You or your attorney file a Motion to Incur New Debt with the bankruptcy court. 
 
 Can I lease a car during Chapter 13 in Georgia?
 
-Leasing during Chapter 13 is treated the same as buying - you need court approval. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
+Leasing during Chapter 13 is treated the same as buying - court approval is generally required. Some courts view leases less favorably because they do not build equity. The total lease cost will be compared against purchasing.
 
 What happens if I buy a car without court approval?
 
@@ -4047,15 +4188,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4080,6 +4239,8 @@ Buying a House After Bankruptcy in Georgia
 Bankruptcy does not permanently prevent homeownership. Thousands of Americans buy homes after bankruptcy every year. Here are the waiting periods, requirements, and strategies for Georgia residents.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+After Chapter 7: 2-4 years depending on the loan type (FHA requires 2 years, conventional requires 4 years). After Chapter 13: 1-2 years after discharge (FHA may allow applications during an active plan with trustee approval). VA loans require 2 years after Chapter 7 and may allow applications during Chapter 13.
 
 Waiting Periods by Loan Type
 
@@ -4157,7 +4318,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4189,15 +4349,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4359,15 +4537,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4392,6 +4588,8 @@ Chapter 13 Bankruptcy Eligibility in Georgia
 Chapter 13 lets Georgia residents keep their property while repaying debts over 3-5 years. Here are the eligibility requirements.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Core Eligibility Requirements
 
@@ -4489,7 +4687,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4521,15 +4718,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4554,6 +4769,8 @@ Chapter 13 Payments in Georgia
 Your Chapter 13 plan payment is based on your income, expenses, and debts. Here is how it works in Georgia and what to do if you cannot keep up.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Your monthly payment depends on your disposable income (income minus allowed expenses), the amount of secured and priority debts you must pay, and the liquidation test (unsecured creditors must receive at least what they would get in Chapter 7). Most Georgia Chapter 13 payments range from a few hundred to a few thousand dollars per month.
 
 How Payments Are Calculated
 
@@ -4641,7 +4858,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4673,15 +4889,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4716,6 +4950,8 @@ Filing Fee
 $21,500
 
 Homestead Exemption
+
+Chapter 13 plans last 3 to 5 years. If your income is below the Georgia median, you may qualify for a 3-year plan. If above the median, your plan must be 5 years. During this time, you make monthly payments to a trustee who distributes the money to your creditors.
 
 What Is Chapter 13?
 
@@ -4822,15 +5058,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4855,6 +5109,8 @@ Chapter 7 Bankruptcy Eligibility in Georgia
 Chapter 7 bankruptcy can eliminate most unsecured debt in 3-4 months. Here is how to determine whether you qualify to file in Georgia.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+To qualify for Chapter 7 in Georgia, your household income must be at or below the state median income for your household size. If above median, you must pass the means test, which deducts allowed expenses from your income. If the result shows insufficient disposable income, you still qualify. Current Georgia median income figures are updated twice yearly.
 
 The Means Test
 
@@ -4934,7 +5190,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -4966,15 +5221,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4997,6 +5270,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Georgia
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Georgia residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -5127,15 +5402,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5160,6 +5453,8 @@ Converting Bankruptcy Chapters in Georgia
 If your financial situation changes after filing, Georgia debtors can convert between bankruptcy chapters. Understanding your conversion rights can help you get the best outcome.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Under 11 U.S.C. section 706 and section 1307, you generally have the right to convert between chapters. Chapter 7 debtors can convert to Chapter 13 once as a matter of right. Chapter 13 debtors can convert to Chapter 7 at any time if they have not previously converted from Chapter 7.
 
 Conversion Options
 
@@ -5243,7 +5538,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5275,15 +5569,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5318,6 +5630,8 @@ Chapter 13 Filing Fee
 $25-50
 
 Credit Counseling (2 courses)
+
+The Chapter 7 filing fee is $338. Attorney fees in Georgia typically range from $1,000 to $2,000. Credit counseling courses cost about $25-50 total (two required). Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -5410,15 +5724,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5444,6 +5776,8 @@ Credit card debt is one of the most common reasons Georgia residents file for ba
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
 
+Yes. Credit card debt is unsecured debt and is generally dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Georgia. In Chapter 7, it is eliminated entirely. In Chapter 13, you pay a percentage based on your disposable income over 3-5 years, and the rest is discharged.
+
 How Each Chapter Handles Credit Card Debt
 
 Chapter 7
@@ -5458,7 +5792,7 @@ Recent Charges: The 90-Day and 70-Day Rules
 
 Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is presumed to be non-dischargeable:
 
-Luxury goods/services over $800 charged within 90 days before filing
+Luxury goods/services over $900 charged within 90 days before filing
 
 Cash advances over $1,250 within 70 days before filing
 
@@ -5518,7 +5852,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5550,15 +5883,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5590,7 +5941,7 @@ The Two Presumption Periods
 
 Applies to purchases of luxury goods/services
 
-Threshold: $800+ to a single creditor
+Threshold: $900+ to a single creditor
 
 Within 90 days of filing
 
@@ -5602,7 +5953,7 @@ Presumed non-dischargeable (you must prove otherwise)
 
 Applies to cash advances
 
-Threshold: $1,100+ in aggregate
+Threshold: $1,250+ in aggregate
 
 Within 70 days of filing
 
@@ -5658,7 +6009,7 @@ Technically you can, but it is strongly discouraged. Charges made with no intent
 
 What is the 90-day rule for credit cards before bankruptcy?
 
-Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $800 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
+Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services exceeding $900 made within 90 days of filing bankruptcy are presumed to be non-dischargeable. The creditor does not have to prove fraud - you must prove the charges were not fraudulent.
 
 What is the 70-day rule for cash advances?
 
@@ -5712,15 +6063,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5745,6 +6114,8 @@ Bankruptcy Disqualifications in Georgia
 Not everyone qualifies for bankruptcy relief. Understanding the disqualifications can help Georgia residents plan their filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+You may be disqualified from bankruptcy if: you did not complete credit counseling, you received a recent prior discharge (8 years for Ch.7-to-Ch.7, 4 years for Ch.7-to-Ch.13, 6 years for Ch.13-to-Ch.7, 2 years for Ch.13-to-Ch.13), you committed fraud, your prior case was dismissed within 180 days for cause, or your income is too high for Chapter 7 and debts exceed Chapter 13 limits.
 
 Filing Bars: When You Cannot File
 
@@ -5840,7 +6211,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -5872,15 +6242,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5905,6 +6293,8 @@ Divorce and Bankruptcy in Georgia
 Divorce and bankruptcy often occur together. Understanding how they interact in Georgia can help you protect your assets, manage shared debts, and plan the best filing strategy.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file bankruptcy before, during, or after a divorce in Georgia. The timing affects how debts and property are divided. Filing before the divorce can simplify property division by eliminating joint unsecured debt.
 
 Filing Order: Bankruptcy Before, During, or After Divorce
 
@@ -5986,7 +6376,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6018,15 +6407,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6051,6 +6458,8 @@ Emergency Bankruptcy Filing in Georgia
 When foreclosure, repossession, or garnishment is days or even hours away, Georgia residents can file an emergency bankruptcy petition to trigger the automatic stay immediately.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You can file an emergency (bare-bones) bankruptcy petition in Georgia to get the automatic stay protection immediately. You file only the two-page voluntary petition, a creditor list, and proof of credit counseling. You then have 14 days to file the remaining schedules and documents.
 
 What Is an Emergency Bankruptcy Filing?
 
@@ -6147,7 +6556,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -6179,15 +6587,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6353,15 +6779,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6493,15 +6937,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6663,15 +7125,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6694,6 +7174,8 @@ Home›Exemptions
 Georgia Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding Georgia's exemptions is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Georgia's homestead exemption protects up to $21,500 of equity in your primary residence. For married couples filing jointly, the exemption doubles to $43,000.
 
 What Are Exemptions?
 
@@ -6778,15 +7260,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6798,7 +7298,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Georgia Bankruptcy FAQ - 15 Common Questions Answered
+## Georgia Bankruptcy FAQ [2026]: OCGA 44-13-100 Exemptions, ND/MD/SD GA Districts, and Filing Process
 Source: https://georgiabankruptcy.org/faq.html
 
 Georgia Bankruptcy Guide
@@ -6809,6 +7309,8 @@ Home›Faq
 Georgia Bankruptcy FAQ
 
 Answers to the 15 most common questions from Georgia residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,000 to $2,000 for Chapter 7 and $3,000 to $4,500 for Chapter 13. Credit counseling costs about $25-50 total. Chapter 13 fees can be paid through your repayment plan. Fee waivers available for low-income Chapter 7 filers.
 
 Cost and Eligibility
 
@@ -6903,15 +7405,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7069,15 +7589,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7102,6 +7640,8 @@ Georgia Bankruptcy Glossary
 Key bankruptcy terms and definitions for Georgia filers, from automatic stay to wildcard exemption.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 Bankruptcy Terms A-Z
 
@@ -7212,7 +7752,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7244,15 +7783,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7277,6 +7834,8 @@ Bankruptcy Income Limits in Georgia
 Your income determines which bankruptcy chapter you qualify for in Georgia and how much you pay in Chapter 13. Here is how the income limits work.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+For Chapter 7, your household income must be at or below the Georgia median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 Chapter 7 Income Limits
 
@@ -7354,7 +7913,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7386,15 +7944,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7406,13 +7982,13 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Georgia Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Georgia Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://georgiabankruptcy.org/
 
 Skip to main content
 
 Georgia Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostFAQAtlantaSavannahMaconStatsOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostFAQAtlantaSavannahMaconStatsOBP Rule 9037 Compliance Guide
 
 Georgia Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -7436,6 +8012,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Georgia typically range from $1,000 to $2,000 for Chapter 7 and $3,000 to $4,500 for Chapter 13. You will also need to pay for two required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -7595,7 +8173,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7643,19 +8220,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -7741,6 +8332,65 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Converting Chapters
+Credit Card Debt
+Credit Cards Before Filing
+Disqualifications
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Income Limits
+Index
+Judgments
+Medical Debt Only
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Retirement Accounts
+Second Mortgage
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeshare
+Travel Chapter 13
+
 ---
 
 ## Judgments and Bankruptcy in Georgia
@@ -7756,6 +8406,8 @@ Judgments and Bankruptcy in Georgia
 A civil judgment against you does not mean you are out of options. Bankruptcy can discharge the underlying debt and even remove judgment liens from your property in Georgia.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Most money judgments based on unsecured debt (credit cards, medical bills, personal loans) are dischargeable in bankruptcy in Georgia. The underlying debt determines dischargeability - if the original debt was dischargeable, the judgment based on that debt is also dischargeable.
 
 Discharging Judgments in Bankruptcy
 
@@ -7847,7 +8499,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -7879,15 +8530,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7910,6 +8579,8 @@ Georgia›Macon›Chapter 13
 Chapter 13 Bankruptcy in Macon, Georgia
 
 Chapter 13 lets Macon residents keep their property while repaying debts over 3-5 years. It is the primary tool for homeowners facing foreclosure or anyone who does not qualify for Chapter 7.
+
+Chapter 13 lets you keep your property while repaying debts over 3-5 years through a court-approved plan. You make monthly payments to a trustee who distributes to creditors. Remaining unsecured debt is discharged at completion.
 
 How Chapter 13 Works
 
@@ -8008,6 +8679,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 7 Bankruptcy in Macon, GA - 2026 Guide | Georgia Bankruptcy
@@ -8021,6 +8694,8 @@ Georgia›Macon›Chapter 7
 Chapter 7 Bankruptcy in Macon, Georgia
 
 Chapter 7 is the fastest path to debt relief for Macon residents. Most filers receive a discharge in 3-4 months, eliminating credit card debt, medical bills, and other unsecured obligations.
+
+You must pass the means test. If your household income is below Georgia's median (approximately $55,000 for a single filer), you automatically qualify. If above, you may still qualify after deducting expenses.
 
 How Chapter 7 Works
 
@@ -8141,6 +8816,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Georgia Bankruptcy Exemptions in Macon - 2026 Guide | Georgia Bankruptcy
@@ -8154,6 +8831,8 @@ Georgia›Macon›Exemptions
 Georgia Bankruptcy Exemptions for Macon Filers
 
 Exemptions determine what property you keep when filing bankruptcy. Georgia does not allow federal exemptions - Macon filers must use state exemptions.
+
+Georgia exemptions protect specific property: $21,500 homestead, $5,000 vehicle, $600 per item personal property ($5,000 total), $600+$5,000 wildcard, plus full exemptions for retirement accounts and Social Security.
 
 Georgia Exemptions at a Glance
 
@@ -8244,6 +8923,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Macon Bankruptcy FAQ - Common Questions Answered | Georgia Bankruptcy
@@ -8257,6 +8938,8 @@ Georgia›Macon›FAQ
 Macon Bankruptcy FAQ
 
 Answers to the most common questions about filing bankruptcy in Macon and the Middle District of Georgia.
+
+Chapter 7 filing fees are $338 and Chapter 13 fees are $313. Attorney fees in Macon typically range from $1,000-$1,800 for Chapter 7 and $2,500-$4,000 for Chapter 13.
 
 Frequently Asked Questions
 
@@ -8331,6 +9014,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Macon, Georgia - 2026 Guide | Georgia Bankruptcy
@@ -8358,6 +9043,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+Macon residents file in the Middle District of Georgia (M.D. Ga.) at the U.S. Bankruptcy Court, 475 Mulberry St, Macon, GA 31201. Phone: (478) 752-3506.
 
 Middle District of Georgia Courthouse
 
@@ -8505,6 +9192,30 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Filing Bankruptcy for Medical Debt in Georgia - Discharge, Alternatives, Protections
@@ -8639,15 +9350,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8672,6 +9401,8 @@ Payday Loans and Bankruptcy in Georgia
 Payday loans trap borrowers in cycles of high-interest debt. Bankruptcy can break that cycle by discharging payday loan obligations entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt and are fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy in Georgia. Once discharged, the lender cannot collect, even if they have post-dated checks or ACH authorization.
 
 Payday Loans Are Dischargeable
 
@@ -8739,7 +9470,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -8771,15 +9501,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8905,15 +9653,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9051,15 +9817,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9227,15 +10011,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9258,6 +10060,8 @@ Home›Resources
 Georgia Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process in Georgia.
+
+Georgia has 3 federal bankruptcy courts. N.D. Ga.: 1340 Spring St NW, Atlanta, GA 30309 ((404) 215-1000); M.D. Ga.: 433 Cherry St, Macon, GA 31201 ((478) 752-3506); S.D. Ga.: 125 Bull St, Savannah, GA 31401 ((912) 650-4100)
 
 Bankruptcy Courts
 
@@ -9388,15 +10192,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9418,7 +10240,7 @@ Home›Retirement Accounts and Bankruptcy in Georgia
 
 Retirement Accounts and Bankruptcy in Georgia
 
-Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Georgia filers need to know.
+Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,711,975. Here is what Georgia filers need to know.
 
 Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
@@ -9440,7 +10262,7 @@ Thrift Savings Plan (TSP) - fully exempt for federal employees
 
 This protection applies nationwide regardless of state exemption choices. The trustee cannot touch these accounts.
 
-IRAs: Protected Up to $1,512,350
+IRAs: Protected Up to $1,711,975
 
 Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
@@ -9536,15 +10358,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9567,6 +10407,8 @@ Georgia›Savannah›Chapter 13
 Chapter 13 Bankruptcy in Savannah, Georgia
 
 Chapter 13 lets you keep your property while repaying debts over 3-5 years. It is the primary tool for Savannah homeowners facing foreclosure or anyone who does not qualify for Chapter 7.
+
+Chapter 13 lets you keep your property while repaying debts over 3-5 years through a court-approved plan. You make monthly payments to a Chapter 13 trustee who distributes them to creditors. Remaining unsecured debt is discharged at completion.
 
 How Chapter 13 Works
 
@@ -9671,6 +10513,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Chapter 7 Bankruptcy in Savannah, GA - 2026 Guide | Georgia Bankruptcy
@@ -9684,6 +10528,8 @@ Georgia›Savannah›Chapter 7
 Chapter 7 Bankruptcy in Savannah, Georgia
 
 Chapter 7 is the fastest path to debt relief for Savannah residents. Most filers receive a discharge in 3-4 months, eliminating credit card debt, medical bills, and other unsecured obligations.
+
+You must pass the means test. If your household income is below Georgia's median (approximately $55,000 for a single filer), you automatically qualify. If above, you may still qualify after deducting allowed expenses.
 
 How Chapter 7 Works
 
@@ -9810,6 +10656,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Georgia Bankruptcy Exemptions in Savannah - 2026 Guide | Georgia Bankruptcy
@@ -9823,6 +10671,8 @@ Georgia›Savannah›Exemptions
 Georgia Bankruptcy Exemptions for Savannah Filers
 
 Exemptions determine what property you can keep when filing bankruptcy. Georgia does not allow federal exemptions - you must use state exemptions listed here.
+
+Georgia exemptions protect specific property in bankruptcy: $21,500 homestead, $5,000 vehicle, $600 per item personal property ($5,000 total), $600+$5,000 wildcard, plus full exemptions for retirement accounts and Social Security.
 
 Georgia Exemptions at a Glance
 
@@ -9917,6 +10767,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Savannah Bankruptcy FAQ - Common Questions Answered | Georgia Bankruptcy
@@ -9930,6 +10782,8 @@ Georgia›Savannah›FAQ
 Savannah Bankruptcy FAQ
 
 Answers to the most common questions about filing bankruptcy in Savannah and the Southern District of Georgia.
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Savannah typically range from $1,000 to $2,000 for Chapter 7 and $3,000 to $4,500 for Chapter 13.
 
 Frequently Asked Questions
 
@@ -10004,6 +10858,8 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Filing Bankruptcy in Savannah, Georgia - 2026 Guide | Georgia Bankruptcy
@@ -10031,6 +10887,8 @@ Ch. 7 Filing Fee
 $313
 
 Ch. 13 Filing Fee
+
+Savannah residents file in the Southern District of Georgia (S.D. Ga.) at the U.S. Bankruptcy Court, 125 Bull St, Savannah, GA 31401. Phone: (912) 650-4100.
 
 Southern District of Georgia Courthouse
 
@@ -10176,6 +11034,30 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Second Mortgages and Bankruptcy in Georgia
@@ -10191,6 +11073,8 @@ Second Mortgages and Bankruptcy in Georgia
 If your Georgia home is worth less than your first mortgage, Chapter 13 lien stripping can eliminate your second mortgage entirely.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, through a process called lien stripping in Chapter 13. If your home is worth less than what you owe on your first mortgage, the second mortgage is considered wholly unsecured and can be treated as general unsecured debt in your plan. At completion of the plan, the lien is removed.
 
 What Is Lien Stripping?
 
@@ -10272,7 +11156,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -10304,15 +11187,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10458,15 +11359,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10478,7 +11397,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Georgia Bankruptcy Statistics - Filing Data and Trends
+## Georgia Bankruptcy Statistics [2026]: Filing Volume, Dismissal Rates, and District-Level Data
 Source: https://georgiabankruptcy.org/statistics.html
 
 Georgia Bankruptcy Guide
@@ -10505,6 +11424,8 @@ Chapter 7 Filing Fee
 $313
 
 Chapter 13 Filing Fee
+
+Since 2008, Georgia's districts have processed over 200,000+ bankruptcy cases. Filing volumes peaked around 2010-2011 following the financial crisis and have generally declined since.
 
 Georgia Federal Court Districts
 
@@ -10558,7 +11479,6 @@ Illinois
 Iowa
 Maryland
 Minnesota
-Missouri
 Ohio
 Rhode Island
 Tennessee
@@ -10590,15 +11510,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10726,15 +11664,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -10890,15 +11846,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -11024,15 +11998,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -11186,15 +12178,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -11332,15 +12342,33 @@ Georgia Exemptions
 
 Bankruptcy Cost in Georgia
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+georgiabankruptcy.org
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -11408,7 +12436,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -11418,6 +12446,368 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About georgiabankruptcy.org
+Source: https://georgiabankruptcy.org/about.html
+
+georgiabankruptcy.org
+
+Home
+About
+Privacy
+
+About georgiabankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+georgiabankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
+## Credit After Bankruptcy in Georgia
+Source: https://georgiabankruptcy.org/credit-after-bankruptcy.html
+
+Georgia Bankruptcy Guide
+HomeAtlantaChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Georgia›Credit After Bankruptcy
+
+Rebuilding Credit After Bankruptcy in Georgia
+
+Bankruptcy is not the end of your credit life - it is the beginning. Most people see their score start rising within months of discharge.
+
+General educational information, not legal or financial advice. Consult a qualified professional for advice about your situation.
+
+Chapter 7 stays for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. But the impact on your score diminishes over time, and most lenders weigh the most recent 2 years most heavily.
+
+FICO Score Timeline After Bankruptcy
+
+Many people assume their FICO scores will stay buried for years after bankruptcy. The reality is different. Bankruptcy wipes out old debts and debt-to-income ratios reset almost immediately, so the rebuild can start faster than you expect.
+
+Month 1-6: Score often drops to low 500s at filing, then begins to stabilize after discharge.
+
+Month 6-12: With a secured credit card used responsibly, scores typically climb back to mid-600s.
+
+Year 2: Many Georgia residents qualify for FHA home loans with 620+ scores.
+
+Year 3-5: Scores often return to 700+ with consistent on-time payment history.
+
+Five Steps to Rebuild Credit Fast
+
+Get a secured credit card. Deposit $200-$500 as collateral. Use under 30% of the limit and pay in full every month. After 12 months you usually graduate to an unsecured card.
+
+Pay every bill on time. Payment history is 35% of your FICO score - the single biggest factor. Set up autopay for everything you possibly can.
+
+Keep utilization low. Credit usage is 30% of your score. Keep balances below 30% of limits, and below 10% if you want to maximize the rebuild.
+
+Do not apply for multiple credit products at once. Each application is a hard inquiry. Space applications at least six months apart.
+
+Monitor your credit report. Pull free reports at annualcreditreport.com and dispute any discharged debt that still shows as owed. Creditors sometimes fail to update.
+
+Frequently Asked Questions
+
+How long does bankruptcy stay on my credit report?
+
+Chapter 7 stays for 10 years from the filing date. Chapter 13 stays for 7 years from the filing date. But the impact on your score diminishes over time, and most lenders weigh the most recent 2 years most heavily.
+
+How long until I can qualify for a mortgage?
+
+FHA loans require 2 years after Chapter 7 (1 year in Chapter 13 with on-time payments). VA loans are similar. Conventional loans require 4 years after Chapter 7 and 2 years after Chapter 13. See Buy a House After Bankruptcy.
+
+Should I close all my accounts after bankruptcy?
+
+No. Keeping any account in good standing that survives bankruptcy helps you rebuild. Closing accounts reduces available history and can lower your score. Focus on on-time payments for at least six months before applying for new credit.
+
+Ready to Start Rebuilding?
+
+Free Discharge Screener
+
+Browse Other States
+
+TennesseeAlabamaFloridaView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Keep Your Car in Georgia Bankruptcy
+Source: https://georgiabankruptcy.org/keep-your-car.html
+
+Georgia Bankruptcy Guide
+HomeAtlantaChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Georgia›Keep Your Car
+
+Keep Your Car in Georgia Bankruptcy
+
+For most people, losing the car means losing the job. Here is how to keep your vehicle when filing bankruptcy in Georgia.
+
+This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, in most cases. If your equity is below Georgia's motor vehicle exemption ($5,000) and you are current on payments, you can keep the car in Chapter 7. In Chapter 13, you can keep the car even if you are behind on payments by catching up through the plan.
+
+Georgia's Motor Vehicle Exemption: $5,000
+
+Georgia lets you protect up to $5,000 of equity in a motor vehicle in bankruptcy. Equity is the fair market value of the car minus what you still owe on the loan. If your equity is below the exemption limit, the trustee cannot sell your car in Chapter 7.
+
+Example: Your car is worth $12,000 and you owe $10,500 on the loan. Your equity is $1,500. If that sits below Georgia's motor vehicle exemption, the car is protected. Keep making payments to the lender and the car stays with you through the case.
+
+If your equity exceeds the exemption, you may still be able to keep the car by paying the trustee the non-exempt portion, using wildcard exemptions, or switching to Chapter 13.
+
+Your Three Options in Chapter 7
+
+Reaffirm
+
+Sign a new agreement with the lender to keep the car and the loan. You remain personally liable after the case. Best if the car is worth close to the loan balance and you can afford the payment.
+
+Surrender
+
+Give the car back to the lender. Any deficiency balance is wiped out in the bankruptcy. Best if the car is deeply underwater or you cannot afford the payment.
+
+Redeem
+
+Pay the lender the car's fair market value in one lump sum (not the loan balance). Hard to do without outside financing, but can save thousands on underwater cars.
+
+Chapter 13
+
+Catch up missed payments over 3-5 years through the plan. May cramdown the loan balance to the car's value if you bought it more than 910 days ago (Chapter 13 details).
+
+Frequently Asked Questions
+
+Can I keep my car if I file bankruptcy in Georgia?
+
+Yes, in most cases. If your equity is below Georgia's motor vehicle exemption ($5,000) and you are current on payments, you can keep the car in Chapter 7. In Chapter 13, you can keep the car even if you are behind on payments by catching up through the plan.
+
+What is reaffirmation?
+
+A reaffirmation agreement is a contract with the lender to exclude the car loan from your bankruptcy discharge. You promise to keep paying and keep the car, but you also remain personally liable if you default later. Only sign one if you can afford the payment.
+
+What is Chapter 13 cramdown?
+
+Cramdown lets you reduce the loan balance to the car's actual value if you bought it more than 910 days (2.5 years) ago. This can save thousands on underwater vehicles. Talk to a bankruptcy attorney about whether cramdown fits your case.
+
+Protect Your Transportation
+
+Use our free tools to see your options.
+
+Free Discharge Screener
+Georgia Bankruptcy Guide
+
+Browse Other States
+
+TennesseeAlabamaFloridaView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Keep Your House in Georgia Bankruptcy
+Source: https://georgiabankruptcy.org/keep-your-house.html
+
+Georgia Bankruptcy Guide
+HomeAtlantaChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Georgia Bankruptcy Guide›Keep Your House
+
+Keep Your House in Georgia Bankruptcy
+
+Your home is often your most important asset. Here is how Georgia's homestead exemption and bankruptcy law work together to help you keep your house.
+
+This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Georgia's homestead exemption protects up to $21,500 of equity in your home. If your equity is below that amount, your home is fully protected in Chapter 7. In Chapter 13, you keep your home while catching up on missed mortgage payments through a 3-5 year repayment plan.
+
+Georgia's Homestead Exemption: $21,500
+
+Georgia's homestead exemption protects up to $21,500 of equity in your primary residence ($43,000 for married couples filing jointly). If your equity is below this amount, your home is fully protected in Chapter 7.
+
+To calculate your equity, take the fair market value of your home and subtract all mortgages and liens. The result is your equity. If that number fits within the exemption limit, the trustee cannot sell your home.
+
+Chapter 7 vs. Chapter 13 for Your Home
+
+Chapter 7
+
+Homestead exemption protects equity up to $21,500
+
+Eliminates unsecured debt, making mortgage payments more affordable
+
+Does NOT stop foreclosure long-term - only delays it during the case
+
+You must stay current on mortgage payments to keep the home
+
+Best if you are current on mortgage and need to eliminate other debts
+
+Chapter 13
+
+Stops foreclosure through the automatic stay
+
+Catch up on missed payments over 3-5 years
+
+May strip off underwater second mortgages (lien stripping)
+
+Protects home regardless of equity amount
+
+Best if you are behind on mortgage payments
+
+Foreclosure in Georgia
+
+Georgia primarily uses non-judicial foreclosure. The process typically takes about 2-4 months from start to sale, and Georgia law provides no statutory right of redemption after a non-judicial foreclosure sale.
+
+If you are facing foreclosure in Georgia, bankruptcy can stop the process. The automatic stay halts all foreclosure proceedings the moment you file. Chapter 13 then gives you a structured way to catch up on missed payments while keeping your home.
+
+Frequently Asked Questions
+
+Can I keep my house if I file bankruptcy in Georgia?
+
+In most cases, yes. Georgia's homestead exemption protects up to $21,500 of equity in your home. If your equity is below that amount, your home is fully protected in Chapter 7. In Chapter 13, you keep your home while catching up on missed mortgage payments through a 3-5 year repayment plan.
+
+Can Chapter 13 stop foreclosure in Georgia?
+
+Yes. Filing Chapter 13 triggers the automatic stay, which immediately stops foreclosure proceedings. You can then catch up on missed mortgage payments over 3-5 years through your repayment plan while continuing to make regular monthly payments going forward.
+
+What happens to my second mortgage in bankruptcy?
+
+If your home is worth less than what you owe on the first mortgage, Chapter 13 may allow you to strip off (remove) the second mortgage entirely. The second mortgage is treated as unsecured debt. This is called lien stripping and can save homeowners thousands.
+
+Protect Your Home Today
+
+Learn about your options and check your discharge eligibility with our free tools.
+
+Free Discharge Screener
+Keep Your House Guide
+
+Browse Other States
+
+TennesseeAlabamaFlorida
+View All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## Wage Garnishment in Georgia: How to Stop It
+Source: https://georgiabankruptcy.org/wage-garnishment.html
+
+Georgia Bankruptcy Guide
+HomeAtlantaChapter 7Chapter 13ExemptionsCostFAQOBP
+
+Home›Georgia›Wage Garnishment
+
+How to Stop Wage Garnishment in Georgia
+
+Bankruptcy stops most wage garnishments the same day you file. Here is how it works.
+
+General educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Georgia follows federal garnishment limits (25% of disposable earnings or the amount exceeding 30x federal minimum wage, whichever is less).
+
+Garnishment Limits in Georgia
+
+Georgia follows federal garnishment limits (25% of disposable earnings or the amount exceeding 30x federal minimum wage, whichever is less).
+
+Protected income: Social Security, disability benefits, child support (received), veterans benefits, and most pensions are generally exempt from garnishment, though they may still be garnished for federal taxes or child support.
+
+Some creditors ignore the rules or calculate the protected amount incorrectly. If you think your paycheck is over-garnished, request a hearing to object. Bankruptcy is often the faster, more permanent solution.
+
+How Bankruptcy Stops Garnishment
+
+The moment a bankruptcy petition is filed, the automatic stay under 11 U.S.C. section 362 takes effect. This federal court order stops:
+
+All wage garnishments by non-governmental creditors
+
+Bank account garnishments and attachment liens
+
+Collection calls and letters
+
+Pending lawsuits and judgments
+
+Foreclosure and vehicle repossession proceedings
+
+To stop the garnishment you must notify your employer's payroll department and the garnishing creditor the same day you file, so they halt withholdings on the next paycheck. Provide the case number and the filing date.
+
+Recovering Already-Garnished Wages
+
+If a creditor garnished more than $600 from you within the 90 days before you filed, those payments are preferential transfers under 11 U.S.C. section 547 and can be clawed back. The trustee will recover the funds from the creditor. In some cases (if you have unused exemption room) you can claim the recovery for yourself.
+
+Frequently Asked Questions
+
+How much can be garnished from my paycheck in Georgia?
+
+Georgia follows federal garnishment limits (25% of disposable earnings or the amount exceeding 30x federal minimum wage, whichever is less).
+
+Does bankruptcy stop garnishment immediately?
+
+Yes. The automatic stay under 11 U.S.C. section 362 takes effect the exact moment your bankruptcy petition is filed. You must notify your employer's payroll department and the garnishing creditor the same day so they halt withholdings on your next check.
+
+Can I recover wages that were already garnished?
+
+If a creditor garnished more than $600 within the 90 days before you filed, you can often claw it back as a preferential transfer under 11 U.S.C. section 547. Involuntary payments within the 90-day look-back are recoverable by the trustee or (if you have exemption room) by you.
+
+Stop the Garnishment Today
+
+Free Discharge Screener
+
+Browse Other States
+
+TennesseeAlabamaFloridaView All States →
+
+© 2026 Open Bankruptcy Project. Educational information only - not legal advice.
+
+Español · Free Discharge Screener · Research Platform
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5

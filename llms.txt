@@ -1,5 +1,5 @@
-# Georgia Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Georgia Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Georgia bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Georgia exemptions, filing costs, means test, and what to expect in your case.
 
@@ -52,11 +52,11 @@ georgiabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Can I Keep My Jewelry in Georgia Bankruptcy?: https://georgiabankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Georgia?: https://georgiabankruptcy.org/eviction.html
 - Georgia Bankruptcy Exemptions - What You Can Keep: https://georgiabankruptcy.org/exemptions.html
-- Georgia Bankruptcy FAQ - 15 Common Questions Answered: https://georgiabankruptcy.org/faq.html
+- Georgia Bankruptcy FAQ [2026]: OCGA 44-13-100 Exemptions, ND/MD/SD GA Districts, and Filing Process: https://georgiabankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Georgia: https://georgiabankruptcy.org/find-bankruptcy-filing.html
 - Georgia Bankruptcy Glossary: https://georgiabankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Georgia: https://georgiabankruptcy.org/income-limits.html
-- Georgia Bankruptcy - Chapter 7 & 13 Filing Guide: https://georgiabankruptcy.org/
+- Georgia Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://georgiabankruptcy.org/
 - Judgments and Bankruptcy in Georgia: https://georgiabankruptcy.org/judgments.html
 - Chapter 13 Bankruptcy in Macon, GA - 2026 Guide | Georgia Bankruptcy: https://georgiabankruptcy.org/macon/chapter-13.html
 - Chapter 7 Bankruptcy in Macon, GA - 2026 Guide | Georgia Bankruptcy: https://georgiabankruptcy.org/macon/chapter-7.html
@@ -77,13 +77,18 @@ georgiabankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Filing Bankruptcy in Savannah, Georgia - 2026 Guide | Georgia Bankruptcy: https://georgiabankruptcy.org/savannah/
 - Second Mortgages and Bankruptcy in Georgia: https://georgiabankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Georgia - Will I Lose My Clearance?: https://georgiabankruptcy.org/security-clearance.html
-- Georgia Bankruptcy Statistics - Filing Data and Trends: https://georgiabankruptcy.org/statistics.html
+- Georgia Bankruptcy Statistics [2026]: Filing Volume, Dismissal Rates, and District-Level Data: https://georgiabankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Georgia: https://georgiabankruptcy.org/stop-paying-bills.html
 - Surrendering Your Car in Georgia Bankruptcy - Process, Deficiency, Options: https://georgiabankruptcy.org/surrender-car.html
 - Tax Refunds and Chapter 13 in Georgia - Trustee Practices, Protecting Your Refund: https://georgiabankruptcy.org/tax-refund-chapter13.html
 - Timeshares and Bankruptcy in Georgia: https://georgiabankruptcy.org/timeshare.html
 - Can I Travel During Chapter 13 in Georgia?: https://georgiabankruptcy.org/travel-chapter-13.html
 - Privacy Policy: https://georgiabankruptcy.org/privacy.html
+- About georgiabankruptcy.org: https://georgiabankruptcy.org/about.html
+- Credit After Bankruptcy in Georgia: https://georgiabankruptcy.org/credit-after-bankruptcy.html
+- Keep Your Car in Georgia Bankruptcy: https://georgiabankruptcy.org/keep-your-car.html
+- Keep Your House in Georgia Bankruptcy: https://georgiabankruptcy.org/keep-your-house.html
+- Wage Garnishment in Georgia: How to Stop It: https://georgiabankruptcy.org/wage-garnishment.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
